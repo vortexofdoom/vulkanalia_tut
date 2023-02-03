@@ -1,0 +1,4 @@
+/target
+src/shaders/compile.bat
+*.spv
+.vscode/launch.json
