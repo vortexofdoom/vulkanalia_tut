@@ -3,3 +3,4 @@ src/shaders/compile.bat
 *.spv
 .vscode/launch.json
 /src/cmp
+/resources
